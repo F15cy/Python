@@ -5,3 +5,4 @@ def nums_que_comencen_per(llista):
         if nom[0].lower() == 'a':  # Comprova si la primera lletra és 'a'
             contador += 1
     return contador
+ 
